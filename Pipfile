@@ -9,6 +9,8 @@ autopep8 = "*"
 [packages]
 robin-stocks = "*"
 pandas = "*"
+requests = "*"
+websocket-client = "*"
 
 [requires]
 python_version = "3.8"
